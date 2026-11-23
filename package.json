@@ -1,0 +1,12 @@
+{
+  "name": "grampys-bakery",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Grampy's Bakery — family-run bakery, 1410 Griffin Road, Leesburg FL (websites desk, t_100bb27b)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

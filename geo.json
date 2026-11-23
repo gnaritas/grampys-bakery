@@ -1,0 +1,18 @@
+{
+  "site": "grampys-bakery",
+  "recorded": "2026-11-23",
+  "purpose": "source for JSON-LD geo + map embed q string",
+  "chosen": {"lat": 28.828664508735, "lon": -81.887694863686, "zip": "34748"},
+  "method": "US Census Public_AR_Current onelineaddress geocoder for '1410 Griffin Road, Leesburg, FL' returns matchedAddress '1410 GRIFFIN RD, LEESBURG, FL, 34748' at 28.828664508735,-81.887694863686.",
+  "address_agreement": [
+    "Daily Commercial 2026-03-20 story: 'Located at 1410 Griffin Road, Leesburg'",
+    "Daily Commercial 2025-11-05 story: 'his new business at 1410 Griffin Road'",
+    "Hoodline 2026-11: 'located at 1410 Griffin Road in Leesburg'",
+    "Yahoo/Daily Commercial 2026-11-20: 'Located at 1410 Griffin Road in Leesburg'; photo caption adds 'on Griffin Road, just off U.S. 441'"
+  ],
+  "caveats": [
+    "ZIP 34748 is geocoder-derived — not printed in any article; used only in JSON-LD postalCode + map q string.",
+    "Card body said 'exact street number, hours, phone: NOT verified' — the number became verified post-creation via four news sources (checkpoint comment 905). Hours + phone remain unverified and are omitted from the site.",
+    "GBP listing check at dispatch: no live GBP website field found (scan evidence); site copy never claims a Google listing."
+  ]
+}
